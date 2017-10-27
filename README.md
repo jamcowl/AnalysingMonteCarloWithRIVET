@@ -1,4 +1,4 @@
-# Using [RIVET](https://rivet.hepforge.org/) to measure the nonperturbative corrections in Monte Carlo event generators
+# Using [RIVET](https://rivet.hepforge.org/) to measure the non-perturbative corrections in Monte Carlo event generators
 
 This was the title of my final year MSci physics project in the [UCL ATLAS group](https://www.hep.ucl.ac.uk/atlas/). More detail is available in the [project report](MSci_Project_Report.pdf).
 
@@ -18,4 +18,4 @@ To run a RIVET analysis, use the first argument `run` and second argument a conf
 
 will run a compiled RIVET analysis on the input files specified in the `configureRivet.py` file, in the `svcMgr.EventSelector.InputCollections` list.
 
-The existing `configureRivet.py` filepaths are specific to Monte Carlo samples stored on the UCL cluster.
+The existing configuration files contain filepaths specific to Monte Carlo samples stored on the UCL cluster.
