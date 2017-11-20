@@ -5,8 +5,6 @@ A method is presented for obtaining the non-perturbative correction factors from
 
 ### Usage
 
-How to use the `runRivet.sh` script:
-
 To compile a RIVET analysis, use the first argument `build` and second argument the analysis name, e.g.
 
 `./runRivet.sh build ANALYSIS_NAME`
